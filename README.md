@@ -16,7 +16,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Andree
-- An Open Source enthusiast.
+- A full-stack junior web developer.
 - A Systems Engineering Student. 
 - Currently working on some of my cool side projects based on Web Development.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- I'm currently looking for opportunities. I like to learn and contribute in any and every possible way.
