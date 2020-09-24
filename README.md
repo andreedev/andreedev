@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a junior web developer, I handle both frontend and backend, I like to learn new technologies, software design patterns and development methodologies, I am responsible, I can adapt to teamwork, self-taught to solve problems and research, and generate reports with good writing .
 <!--
 **andreedev/andreedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
