@@ -1,6 +1,23 @@
 ### Hi there 👋
 
-I am a junior web developer, I handle both frontend and backend, I like to learn new technologies, software design patterns and development methodologies, I am responsible, I can adapt to teamwork, self-taught to solve problems and research, and generate reports with good writing .
+I am a junior web developer, I handle both frontend and backend, I like to learn new technologies, software design patterns and development methodologies, I am responsible, I can adapt to teamwork, self-taught to solve problems and research, and generate reports with good writing.
+<br>
+<h3>My abilities</h3>
+
+• HTML5 / CSS3 (responsive layout, UI, UX, flexbox, grid, bootstrap 4) <br>
+• Javascript (ajax, JSON, jquery, libraries) <br>
+• PHP7 <br>
+• Laravel php framework <br>
+• SQL databases (MySQL) <br>
+• Python 3 <br>
+• Consumption of APIs, web services <br> 
+• Integration of payment gateways (Culqi) <br>
+• Web hosting <br>
+• Handling git version control <br>
+• MVC, OOP <br>
+• VSCode/Visual Studio <br>
+•	Intermediate English <br>
+
 <!--
 **andreedev/andreedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
