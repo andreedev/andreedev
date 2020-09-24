@@ -1,35 +1,17 @@
-### Hi there 👋
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-I am a junior web developer, I handle both frontend and backend, I like to learn new technologies, software design patterns and development methodologies, I am responsible, I can adapt to teamwork, self-taught to solve problems and research, and generate reports with good writing.
-<br>
-<h3>My abilities</h3>
+<a href="https://www.linkedin.com/in/andree-dev/">
+  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/andreedev">
+  <img align="left" alt="Andree's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-• HTML5/CSS3 (responsive web design, UI, UX, flexbox, grid, bootstrap 4) <br>
-• Javascript (ajax, JSON, jquery, libraries) <br>
-• PHP7 <br>
-• Laravel php framework <br>
-• SQL databases(MySQL) <br>
-• Python 3 <br>
-• C++ <br>
-• Consumption of APIs, web services <br> 
-• Integration of payment gateways (Culqi) <br>
-• Web hosting <br>
-• Git <br>
-• MVC, OOP <br>
-• VSCode/Visual Studio <br>
-•	Intermediate English <br>
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-<!--
-**andreedev/andreedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am Andree
+- An Open Source enthusiast.
+- A Systems Engineering Student. 
+- Currently working on some of my cool side projects based on Web Development.
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
