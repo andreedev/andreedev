@@ -4,16 +4,16 @@ I am a junior web developer, I handle both frontend and backend, I like to learn
 <br>
 <h3>My abilities</h3>
 
-• HTML5 / CSS3 (responsive layout, UI, UX, flexbox, grid, bootstrap 4) <br>
+• HTML5/CSS3 (responsive web design, UI, UX, flexbox, grid, bootstrap 4) <br>
 • Javascript (ajax, JSON, jquery, libraries) <br>
 • PHP7 <br>
 • Laravel php framework <br>
-• SQL databases (MySQL) <br>
+• SQL databases(MySQL) <br>
 • Python 3 <br>
 • Consumption of APIs, web services <br> 
 • Integration of payment gateways (Culqi) <br>
 • Web hosting <br>
-• Handling git version control <br>
+• Git <br>
 • MVC, OOP <br>
 • VSCode/Visual Studio <br>
 •	Intermediate English <br>
