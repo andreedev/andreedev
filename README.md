@@ -10,6 +10,7 @@ I am a junior web developer, I handle both frontend and backend, I like to learn
 • Laravel php framework <br>
 • SQL databases(MySQL) <br>
 • Python 3 <br>
+• C++ <br>
 • Consumption of APIs, web services <br> 
 • Integration of payment gateways (Culqi) <br>
 • Web hosting <br>
