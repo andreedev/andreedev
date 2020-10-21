@@ -16,7 +16,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Andree
-- A full-stack junior web developer.
+- A full-stack web developer.
 - A systems engineering student. 
 - Currently working on some of my cool side projects based on Web Development.
 - I'm currently looking for opportunities. I like to learn and contribute in any and every possible way.
