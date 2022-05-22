@@ -16,6 +16,6 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Andree
-- A systems engineering student. 
-- Currently working on some of my cool side projects based on Web Development.
-- I work as a semi-senior fullstack programmer. I like to learn and contribute to the team any and every possible way.
+- Software engineering student.
+- Currently working on some of my cool side projects based on web development.
+- I work as a backend developer. I like to learn and contribute to the team any and every possible way.
