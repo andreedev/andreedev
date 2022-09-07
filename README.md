@@ -16,6 +16,6 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Andree
-- Software engineering student.
-- Currently working on some of my cool side projects based on web development.
+- Majoring in Computer Science.
+- Currently working on some of my cool side projects based on web development and cloud.
 - I work as a backend developer. I like to learn and contribute to the team any and every possible way.
