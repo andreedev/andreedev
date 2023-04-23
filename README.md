@@ -18,4 +18,4 @@
 ### I am Andree
 - Majoring in Software Engineering.
 - Currently working on some of my cool side projects based on web development and cloud.
-- I work as a backend developer. I like to learn and contribute to the team any and every possible way.
+- I like to learn and contribute to the team any and every possible way.
