@@ -19,3 +19,4 @@
 - Majoring in Software Engineering.
 - Currently working on some of my cool side projects based on web development and cloud.
 - I like to learn and contribute to the team any and every possible way.
+- You can find my best ongoing personal project at https://github.com/andreedev/kami-ecommerce
