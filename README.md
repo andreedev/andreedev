@@ -1,13 +1,10 @@
 ## Hello World!</h2>
 
-<a href="https://www.linkedin.com/in/andree-dev/">
+<a href="https://www.linkedin.com/in/andree-dev">
   <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/andreedev">
-  <img align="left" alt="Andree's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-</a>
-<a href="https://andreedev.000webhostapp.com/">
+<a href="https://andreedev.000webhostapp.com">
   <img align="left" alt="Andree's Portfolio" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_428282.png" />
 </a>
 
