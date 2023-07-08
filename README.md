@@ -4,7 +4,7 @@
   <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </a>
-<a href="https://andreedev.000webhostapp.com">
+<a href="https://andreedev.github.io/portfolio">
   <img align="left" alt="Andree's Portfolio" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_428282.png" />
 </a>
 
