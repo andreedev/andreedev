@@ -13,7 +13,6 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Andree
-- Currently pursuing a degree in Systems Engineering.
 - Currently working on some of my cool side projects based on web development and cloud.
 - I like to learn and contribute to the team in any and every possible way.
 - You can find my best full-stack personal project at https://github.com/andreedev/kami-ecommerce
