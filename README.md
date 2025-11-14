@@ -13,6 +13,8 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Andree
-- Currently working on some of my cool side projects based on web development and cloud.
+- Currently working on a personal project based on Angular 20, Quarkus, MongoDB, and AWS.
+- Experienced in building full-stack web applications using Java, Spring Boot, Angular, and various cloud services.
+- Skilled in designing RESTful APIs, database management, and deploying applications on cloud platforms.
+- Currently studying Higher Degree in Web Application Development at Universidad Europea de Madrid.
 - I like to learn and contribute to the team in any and every possible way.
-- You can find my best full-stack personal project at https://github.com/andreedev/kami-ecommerce
