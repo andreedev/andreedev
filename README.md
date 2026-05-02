@@ -13,7 +13,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Andree
-- Currently working on a personal project based on Angular 20, Quarkus, MongoDB, and AWS.
+- Currently working on a multiple projects based on Angular 21, Quarkus, Databases and AWS infraestructure.
 - Experienced in building full-stack web applications using Java, Spring Boot, Angular, and various cloud services.
 - Skilled in designing RESTful APIs, database management, and deploying applications on cloud platforms.
 - Currently studying Higher Degree in Web Application Development at Universidad Europea de Madrid.
