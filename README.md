@@ -14,7 +14,6 @@
 
 ### I am Andree
 - Currently working on a multiple projects based on Angular 21, Quarkus, Databases and AWS infraestructure.
-- Experienced in building full-stack web applications using Java, Spring Boot, Angular, and various cloud services.
-- Skilled in designing RESTful APIs, database management, and deploying applications on cloud platforms.
-- Currently studying Higher Degree in Web Application Development at Universidad Europea de Madrid.
+- Experienced in building full-stack web applications using Java, Quarkus, Angular, and cloud services.
+- Skilled in designing distributed systems, database management, and deploying applications on cloud platforms.
 - I like to learn and contribute to the team in any and every possible way.
