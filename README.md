@@ -13,7 +13,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Andree
-- Currently working on a multiple projects based on Angular 21, Quarkus, Databases and AWS infraestructure.
+- Currently working on a multiple projects based on Angular, Quarkus, Databases and AWS infraestructure.
 - Experienced in building full-stack web applications using Java, Quarkus, Angular, and cloud services.
 - Skilled in designing distributed systems, database management, and deploying applications on cloud platforms.
 - I like to learn and contribute to the team in any and every possible way.
